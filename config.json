@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscelete",
+        "uuid": 18677883,
+        "checksum": "nyfxv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
